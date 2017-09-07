@@ -5,10 +5,7 @@ version 3
 这是暂存区
 xiugai
 这是dev分支修改
-<<<<<<< HEAD
 这是master分支修改
-=======
 这是 distrubute 分支
->>>>>>> distribute
-
 这是冲突分支
+使用no-ff模式
