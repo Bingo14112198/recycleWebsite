@@ -10,4 +10,8 @@ xiugai
 这是冲突分支
 使用no-ff模式
 提交
+<<<<<<< Updated upstream
 修复了bug101
+=======
+我正在工作。。。。。。。。。。。。
+>>>>>>> Stashed changes
